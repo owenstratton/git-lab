@@ -82,5 +82,3 @@ the changes I made online reflected in my local copy, yes.
 
 13.)
 Tells you: Mode, Last write time, and length name.
-
-14.)
