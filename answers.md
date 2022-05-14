@@ -72,3 +72,12 @@ Date:   Sat May 14 14:00:29 2022 -0400
 Repo was successful and added both files.
 
 10.)
+the changes I made online reflected in my local copy, yes.
+
+11.)
+Everything up-to-date
+
+12.)
+the changes I made online reflected in my local copy, yes.
+
+13.)
